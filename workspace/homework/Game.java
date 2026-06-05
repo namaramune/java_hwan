@@ -1,8 +1,9 @@
 package homework;
 
 import java.util.Scanner;
+// 메소드를 활용해서 수정 해보자
 
-public class h01 {
+public class Game {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("***던전***");
