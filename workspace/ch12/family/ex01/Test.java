@@ -7,7 +7,7 @@ public class Test {
 //        Son p = new Son("아들");
         Daughter p = new Daughter("딸");
 
-//        dailySchedule(p);
+        dailySchedule(p);
     }
 
     // 하루 일과
